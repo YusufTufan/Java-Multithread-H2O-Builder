@@ -62,10 +62,14 @@ H-2 is waiting...
 O-1 is waiting...
 --- Molecule Created! ---
 
+```
+
 
 ## 👥 Contributors
 
-* **Yusuf Tufan**
-* **Halil Arin Degirmenci**
-* **Furkan Urkmez**
-* **Selcuk Ozkurt**
+| Name | Role |
+|Data|------|
+| **Yusuf Tufan** | Developer & Reporter |
+| **Halil Arin Degirmenci** | Developer & Reporter |
+| **Furkan Urkmez** | Developer & Reporter |
+| **Selcuk Ozkurt** | Developer & Reporter |
