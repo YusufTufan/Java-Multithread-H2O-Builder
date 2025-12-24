@@ -36,7 +36,7 @@ The core logic is encapsulated within the `H2OBarrier` class, which orchestrates
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/Concurrent-H2O-Simulation.git](https://github.com/YOUR_USERNAME/Concurrent-H2O-Simulation.git)
+    git clone [https://github.com/YusufTufan/Concurrent-H2O-Simulation.git]
     cd Concurrent-H2O-Simulation
     ```
 
@@ -67,9 +67,7 @@ O-1 is waiting...
 
 ## 👥 Contributors
 
-| Name | Role |
-|Data|------|
-| **Yusuf Tufan** | Developer & Reporter |
-| **Halil Arin Degirmenci** | Developer & Reporter |
-| **Furkan Urkmez** | Developer & Reporter |
-| **Selcuk Ozkurt** | Developer & Reporter |
+* **Yusuf Tufan**
+* **Halil Arin Degirmenci**
+* **Furkan Urkmez**
+* **Selcuk Ozkurt**
