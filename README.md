@@ -71,3 +71,9 @@ O-1 is waiting...
 * **Halil Arin Degirmenci**
 * **Furkan Urkmez**
 * **Selcuk Ozkurt**
+
+
+📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+Copyright (c) 2025 YusufTufan
